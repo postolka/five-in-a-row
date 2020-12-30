@@ -1,0 +1,6 @@
+/.idea
+/venv
+~*
+
+# secrets
+credentials.json
